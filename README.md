@@ -1,4 +1,4 @@
-# using-v-model-on-custom-component
+# Develop a multiple-choice input using v-model
 
 ## Project setup
 ```
